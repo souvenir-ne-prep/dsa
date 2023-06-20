@@ -72,6 +72,8 @@ void addLocation(string location)
 
     cout << "Location added successfully." << endl;
 }
+
+
 void recordDiseaseAndCases(string location, string disease, string cases)
 {
 
@@ -419,7 +421,7 @@ int main()
          << " *" << endl;
     cout << "\t\t\t\t" << endl;
     cout << "* "
-         << "It is developed by Aime Igirimpuhwe as practical"
+         << "It is developed by TURINUMUGISHA Souvenir as practical"
          << " *" << endl;
     cout << "* "
          << "evaluation for the end of Year 3."
